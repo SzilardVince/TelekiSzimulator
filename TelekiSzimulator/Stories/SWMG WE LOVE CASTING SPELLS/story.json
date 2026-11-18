@@ -1,0 +1,269 @@
+{
+  "title": "SWMG WE LOVE CASTING SPELLS",
+  "start": "1",
+  "scenes": [
+    {
+      "id": "1",
+      "title": "Felkeltél",
+      "level": 0,
+      "ending": false,
+      "text": "Hova mész",
+      "media": "1.jpg",
+      "choices": [
+        {
+          "label": "Iskola",
+          "next": "3"
+        },
+        {
+          "label": "Büfé",
+          "next": "5"
+        },
+        {
+          "label": "Aludni",
+          "next": "2"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "a te nevedet hivták ki",
+      "level": 0,
+      "ending": false,
+      "text": "szomoru",
+      "media": "15.jpg",
+      "choices": [
+        {
+          "label": "az idö viszaforditása mágiával",
+          "next": "16"
+        },
+        {
+          "label": "Bevállalom az egyest",
+          "next": "17"
+        },
+        {
+          "label": "KIHARCOLOM A KETTEST AZ ÉLETEM ÁRÁN IS!!!",
+          "next": "18"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "beértél a suliba",
+      "level": 0,
+      "ending": false,
+      "text": "hova mész",
+      "media": "11.jpg",
+      "choices": [
+        {
+          "label": "a folyosóra",
+          "next": "12"
+        },
+        {
+          "label": "haza(nem éri meg)",
+          "next": "2"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "beültél IT re",
+      "level": 0,
+      "ending": false,
+      "text": "te már megoldottad a feladatodat mire a haverod még mindig azt hiszi hogy nem ért véget még a tavasz",
+      "media": "12.jpg",
+      "choices": [
+        {
+          "label": "felmész egy TILTOTT helyre",
+          "next": "13"
+        },
+        {
+          "label": "Végigmész a 3X infón",
+          "next": "14"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Cigi szünet",
+      "level": 0,
+      "ending": false,
+      "text": "már a kapu elött csövelünk",
+      "media": "6.jpg",
+      "choices": [
+        {
+          "label": "irány befele",
+          "next": "11"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Elkezdödött a harc",
+      "level": 0,
+      "ending": false,
+      "text": "jaj ne hivta a barátait",
+      "media": "10.jpg",
+      "choices": [
+        {
+          "label": "FÚS BEFELE",
+          "next": "6"
+        },
+        {
+          "label": "TILTOTT VARÁZS",
+          "next": "4"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "flex",
+      "level": 0,
+      "ending": false,
+      "text": "a csövesen le flexeltél és elötte álitotad elö a lakomát és elpusztitotad fél perc allat a haverodal",
+      "media": "8.jpg",
+      "choices": [
+        {
+          "label": "irány a suli",
+          "next": "3"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "jaj ne a kéregetö csöves",
+      "level": 0,
+      "ending": false,
+      "text": "mit teszel hogy ne vegye el a penzed",
+      "media": "5.jpg",
+      "choices": [
+        {
+          "label": "befutok",
+          "next": "7"
+        },
+        {
+          "label": "iskolaba megyek",
+          "next": "3"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "kajaszünet",
+      "level": 0,
+      "ending": false,
+      "text": "Zabálsz töri felelés elöt",
+      "media": "14.jpg",
+      "choices": [
+        {
+          "label": "nyami",
+          "next": "15"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Megszabadultál töllük",
+      "level": 0,
+      "ending": false,
+      "text": "most hogy végeztél irány a suli",
+      "media": "4.jpg",
+      "choices": [
+        {
+          "label": "taktikai Szünet",
+          "next": "6"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "megvetted a dolgokat",
+      "level": 0,
+      "ending": false,
+      "text": "bevásároltál",
+      "media": "7.jpg",
+      "choices": [
+        {
+          "label": "kimenés",
+          "next": "8"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Probléma",
+      "level": 0,
+      "ending": false,
+      "text": "Elindultál az iskolába de több hajléktalanal találkoztál mit teszel",
+      "media": "3.jpg",
+      "choices": [
+        {
+          "label": "Barátkozol velük",
+          "next": "9"
+        },
+        {
+          "label": "megszabadulsz töllük",
+          "next": "10"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "siker",
+      "level": 0,
+      "ending": false,
+      "text": "viszaforditottad de igy viszatértél a csövesekhez",
+      "media": "16.png",
+      "choices": [
+        {
+          "label": "NEMÁ HE",
+          "next": "3"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Bevállaltad az egyest",
+      "level": 0,
+      "ending": true,
+      "text": "szégyen vagy a családodra 1 estéig amig hazaérsz ahol anyukád uj értelmet ad a taktikai papucs szonak",
+      "media": "17.jpg",
+      "choices": []
+    },
+    {
+      "id": "2",
+      "title": "elmentél aludni",
+      "level": 0,
+      "ending": true,
+      "text": "alszol azzal a tudatal hogy reggel anyád elfogja verni a valagadat",
+      "media": "2.jpg",
+      "choices": []
+    },
+    {
+      "id": "9",
+      "title": "Hiv a csöveség",
+      "level": 0,
+      "ending": true,
+      "text": "Rájöttél hogy amugy tök chill a csöves és eldöntöted hogy csatlakozol hozzá",
+      "media": "9.jpg",
+      "choices": []
+    },
+    {
+      "id": "13",
+      "title": "rosz dolgokra kerestél",
+      "level": 0,
+      "ending": true,
+      "text": "felmentél egy tiltott website ra és megláta a tanár és most othon anyád elver téged",
+      "media": "13.jpg",
+      "choices": []
+    },
+    {
+      "id": "18",
+      "title": "SIKERES 5",
+      "level": 0,
+      "ending": true,
+      "text": "NEM TUDOD HOGY DE MEGVAN HELLYEAH +6777 SOCIAL CREDIT ÉS AURA",
+      "media": "18.jpg",
+      "choices": []
+    }
+  ]
+}
